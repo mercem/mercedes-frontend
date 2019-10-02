@@ -1,0 +1,13 @@
+.Content {
+  margin: 1.5em;
+  width: 100%;
+}
+
+.Menu {
+  min-height: 100vh;
+}
+
+.Layout {
+  display: inline-flex;
+  width: 100%;
+}
